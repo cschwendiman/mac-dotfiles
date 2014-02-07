@@ -28,7 +28,7 @@ function gnb {
 PS1='[\u@\h \w\[\033[32m\]$(__git_ps1)\[\033[0m\]]$ '
 PATH="/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:$PATH"
 
-export DOMAIN=jb.dev
+export DOMAIN=cassie.dev
 export EDITOR="mate -w"
 export APPLICATION_ENV=development
 export JAVA_HOME="/System/Library/Frameworks/JavaVM.framework/Home"
